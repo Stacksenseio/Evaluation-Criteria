@@ -1,0 +1,40 @@
+---
+# Evaluation Criteria for Functions as a Service
+# Created by Rishidot Research (www.rishidot.com) and released under Attribution-ShareAlike 4.0 International
+FaaS Evaluation Criteria:
+  has_list: true
+  Service Consumption:
+    - General Availability
+    - Self Services
+    - Pay Per Use Pricing
+    - Resource Sizing
+    - Language Support
+    - Third Party Language Support
+    - Open Source
+    - Multi Cloud Options
+  Application Deployment:
+    - Source Code Deployment Options
+    - Container Support
+    - Browser Based Code Editor
+    - Visual Workflow Editor
+    - Triggers
+    - Event Sources
+    - Dependencies
+    - HTTP(S) Invocation
+    - Versioning
+    - Maximum Number of Functions
+    - Concurrent Executions
+    - Maximum Execution Time
+    - High Availabilty
+  Integrations:
+    - Supported Cloud Services
+    - Third Party Integrations Out Of The Box
+    - Storage Support
+  Security:
+    - Cloud Provider IAM Support
+    - Virtual Private Network Support
+    - Compliance
+  On-Premises Deployment:
+    - On-Premises Deployment
+    - Public Cloud Integration
+...
