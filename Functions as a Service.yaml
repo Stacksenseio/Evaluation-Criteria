@@ -27,10 +27,11 @@ FaaS Evaluation Criteria:
     - Concurrent Executions
     - Maximum Execution Time
     - High Availabilty
+    - Storage Support
+    - Persistent Data 
   Integrations:
     - Supported Cloud Services
     - Third Party Integrations Out Of The Box
-    - Storage Support
   Security:
     - Cloud Provider IAM Support
     - Virtual Private Network Support
