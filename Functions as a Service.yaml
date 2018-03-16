@@ -29,6 +29,7 @@ FaaS Evaluation Criteria:
     - High Availabilty
     - Storage Support
     - Persistent Data
+    - Streaming Support
   Integrations:
     - Supported Cloud Services
     - Third Party Integrations Out Of The Box
