@@ -14,7 +14,7 @@ FaaS Evaluation Criteria:
     - Open Source
     - Multi Cloud Options
   Application Deployment:
-    - Source Code Deployment Options
+    - Function Input Options
     - Container Support
     - Browser Based Code Editor
     - Visual Workflow Editor
@@ -28,7 +28,7 @@ FaaS Evaluation Criteria:
     - Maximum Execution Time
     - High Availabilty
     - Storage Support
-    - Persistent Data 
+    - Persistent Data
   Integrations:
     - Supported Cloud Services
     - Third Party Integrations Out Of The Box
