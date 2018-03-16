@@ -30,6 +30,7 @@ FaaS Evaluation Criteria:
     - Storage Support
     - Persistent Data
     - Streaming Support
+    - Warm Start Support
   Integrations:
     - Supported Cloud Services
     - Third Party Integrations Out Of The Box
