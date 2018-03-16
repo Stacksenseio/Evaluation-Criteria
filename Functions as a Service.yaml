@@ -33,6 +33,8 @@ FaaS Evaluation Criteria:
     - Warm Start Support
   Integrations:
     - Supported Cloud Services
+    - Built in Logging
+    - Built in Monitoring
     - Third Party Integrations Out Of The Box
   Security:
     - Cloud Provider IAM Support
