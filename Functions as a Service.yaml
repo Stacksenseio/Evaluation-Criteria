@@ -40,6 +40,14 @@ FaaS Evaluation Criteria:
     - Cloud Provider IAM Support
     - Virtual Private Network Support
     - Compliance
+  Documentation:
+    - Wiki (or equivalent)
+    - Howtos
+    - Examples/Use Cases
+    - Videos
+    - Documentation Freshness
+    - Community Contribution
+    - API Documentation
   On-Premises Deployment:
     - On-Premises Deployment
     - Public Cloud Integration
