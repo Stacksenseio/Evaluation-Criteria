@@ -16,6 +16,7 @@ FaaS Evaluation Criteria:
   Application Deployment:
     - Function Input Options
     - Container Support
+    - Binary Payload
     - Browser Based Code Editor
     - Visual Workflow Editor
     - Triggers
@@ -31,6 +32,7 @@ FaaS Evaluation Criteria:
     - Persistent Data
     - Streaming Support
     - Warm Start Support
+    - Number Of Metrics
   Integrations:
     - Supported Cloud Services
     - Built in Logging
