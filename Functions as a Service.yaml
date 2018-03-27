@@ -27,6 +27,7 @@ FaaS Evaluation Criteria:
     - Maximum Number of Functions
     - Concurrent Executions
     - Maximum Execution Time
+    - Free API Gateway
     - High Availabilty
     - Storage Support
     - Persistent Data
