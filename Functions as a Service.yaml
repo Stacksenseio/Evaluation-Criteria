@@ -20,7 +20,6 @@ FaaS Evaluation Criteria:
     - Binary Payload
     - Browser Based Code Editor
     - Visual Workflow Editor
-    - Triggers
     - Event Sources
     - Dependencies
     - HTTP(S) Invocation
