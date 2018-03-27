@@ -13,6 +13,7 @@ FaaS Evaluation Criteria:
     - Language Extensibility
     - Open Source
     - Multi Cloud Support
+    - Hybrid Cloud Support
   Application Deployment:
     - Function Code Input Options
     - Container Support
