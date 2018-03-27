@@ -12,9 +12,9 @@ FaaS Evaluation Criteria:
     - Language Support
     - Third Party Language Support
     - Open Source
-    - Multi Cloud Options
+    - Multi Cloud Support
   Application Deployment:
-    - Function Input Options
+    - Function Code Input Options
     - Container Support
     - Binary Payload
     - Browser Based Code Editor
