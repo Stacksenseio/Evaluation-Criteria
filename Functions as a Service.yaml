@@ -6,7 +6,7 @@ FaaS Evaluation Criteria:
   has_list: true
   Service Consumption:
     - General Availability
-    - Self Services
+    - Self Service
     - Pay Per Use Pricing
     - Resource Sizing
     - Language Support
