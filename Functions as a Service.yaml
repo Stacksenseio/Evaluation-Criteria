@@ -35,6 +35,7 @@ FaaS Evaluation Criteria:
     - Streaming Support
     - Warm Start Support
     - Number Of Metrics
+    - List of Metrics
   Integrations:
     - Supported Cloud Services
     - Built in Logging
