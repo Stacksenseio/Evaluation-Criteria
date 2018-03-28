@@ -31,7 +31,6 @@ FaaS Evaluation Criteria:
     - Quota Increase
     - Free API Gateway
     - High Availabilty
-    - Storage Support
     - Persistent Data
     - Streaming Support
     - Warm Start Support
