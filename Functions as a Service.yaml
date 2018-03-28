@@ -24,7 +24,7 @@ FaaS Evaluation Criteria:
     - Dependencies
     - HTTP(S) Invocation
     - Environment Variables
-    - Versioning
+    - Built-In Versioning
     - Maximum Number of Functions
     - Concurrent Executions
     - Maximum Execution Time
