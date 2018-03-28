@@ -25,9 +25,10 @@ FaaS Evaluation Criteria:
     - HTTP(S) Invocation
     - Environment Variables
     - Built-In Versioning
-    - Maximum Number of Functions
+    - Maximum Number of Functions Per Project/Namespace
     - Concurrent Executions
     - Maximum Execution Time
+    - Quota Increase
     - Free API Gateway
     - High Availabilty
     - Storage Support
