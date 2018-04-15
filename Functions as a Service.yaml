@@ -23,6 +23,7 @@ FaaS Evaluation Criteria:
     - Event Sources
     - Dependencies
     - HTTP(S) Invocation
+    - Platform APIs/Libraries
     - Environment Variables
     - Built-In Versioning
     - Maximum Number of Functions Per Project/Namespace
