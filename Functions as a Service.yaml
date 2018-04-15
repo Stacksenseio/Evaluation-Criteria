@@ -30,7 +30,6 @@ FaaS Evaluation Criteria:
     - Concurrent Executions
     - Maximum Execution Time
     - Quota Increase
-    - Free API Gateway
     - High Availabilty
     - Persistent Data
     - Streaming Support
@@ -38,6 +37,13 @@ FaaS Evaluation Criteria:
     - Number Of Metrics
     - List of Metrics
     - Support For Custom Metrics
+  API Gateway:
+    - Free API Gateway
+    - Rate Limiting
+    - User Aunthentication/OAuth
+    - Cross Origin Resource Sharing Support
+    - Path Routing Support
+    - Traffic Shaping Support
   Integrations:
     - Supported Cloud Services
     - Built in Logging
