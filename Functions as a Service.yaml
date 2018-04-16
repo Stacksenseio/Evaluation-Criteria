@@ -44,6 +44,7 @@ FaaS Evaluation Criteria:
     - Cross Origin Resource Sharing Support
     - Path Routing Support
     - Traffic Shaping Support
+    - Wildcard Support In Naming Parameters
   Integrations:
     - Supported Cloud Services
     - Built in Logging
