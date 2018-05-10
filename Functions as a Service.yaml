@@ -29,6 +29,7 @@ FaaS Evaluation Criteria:
     - Maximum Number of Functions Per Project/Namespace
     - Concurrent Executions
     - Maximum Execution Time
+    - Support For Long Running Jobs
     - Quota Increase
     - High Availabilty
     - Persistent Data
