@@ -8,6 +8,7 @@ FaaS Evaluation Criteria:
     - General Availability
     - Self Service
     - Pay Per Use Pricing
+    - Billing Increments
     - Memory Sizing
     - Language Support
     - Language Extensibility
@@ -30,6 +31,7 @@ FaaS Evaluation Criteria:
     - Concurrent Executions
     - Maximum Execution Time
     - Support For Long Running Jobs
+    - Scale To Zero
     - Quota Increase
     - High Availabilty
     - Persistent Data
